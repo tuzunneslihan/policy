@@ -1,0 +1,53 @@
+Mandatory part:
+
+1. In the most concise way possible, answer this question, what is 42? How would you describe 42 to someone who doesn’t know what 42 is?
+
+42 offers computer programming and software engineering programs that differs from the traditional education industry. At 42 students are responsible of their own success and their classmates. It is a collaborative learning environment where students able to try, learn from mistakes, and succeed. 42 introduces a project as a quest or mission, and when those tests and projects are completed a certain amount of points added to the student’s progress bar, bringing them closer to reaching the next level. This project-based learning and gamification mindset eliminate the pressure and stigma of failure and incentivize students to continue raising their efforts.
+
+2. Why are there no instructions on the initial 42 logic tests?
+
+N/A
+
+3. What are the core 42 principles?
+
+creativity, communication and teamwork
+
+4. If somebody is thinking of going to 42, but has no coding experience - do you really think it’s worth their time?
+
+Yes, anyone who is interested in tech and wants to learn programming can try and learn. 
+
+5. What makes 42 unique?
+
+Peer-to-peer learning, gamification mindset, project-based work, 0 tutition fee. 
+
+6. What do you think you’re learning the most at 42?
+
+Reverse engineering, time management, teamwork & collaboration. 
+
+7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what  to do - what your next steps would be?
+
+Ask someone who may help. 
+
+8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict deadlines?
+
+Able to learn and see the improvement in my code. 
+
+9. If someone asks you why it says internships are required on the 42 website, but they do not offer job placement, what would you say? 
+
+Internships are a great way to practice what you learn. 42 gives you the tools to succeed, hackathons and events are offered occasionally on campus to network.
+
+10. How do the internships work? Is it mandatory that you have to reach a certain level before leaving on an internship or can you validate it anytime you find one?
+
+Yes. The requirements are successfully completing “Savoir relier” or “Curriculum Vitae”, validate 5 exams more than 75%, validating the big project of one of the four proposed branches (RT, Corewar, 42sh, Hypertube) and be at least level 7.
+
+11. How does 42 help you adapt to a work place?
+
+42 gives you the group & interpersonal skills including time management, project management, reverse engineering that you need in a work place.
+
+Bonus:
+
+pstringe: KIFT
+song: KIFT
+nobrien: ft_vox
+tadet: own startup
+dphuntso: Push_swap 
